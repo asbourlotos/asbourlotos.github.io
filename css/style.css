@@ -1,5 +1,21 @@
 body {
     margin: 0;
     padding: 0;
+    color: #FFF;
     background-color: #151515;
+}
+/* CLASSES */
+.scaf {
+    border: solid 1px red;
+}
+
+/* SECTIONS */
+header {
+    height: 50px;
+}
+main {
+    
+}
+footer {
+    height: 50px;
 }
