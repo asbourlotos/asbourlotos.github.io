@@ -4,8 +4,14 @@ body {
     padding: 0;
     color: #FFF;
     background-color: #151515;
+    font-family: 'Lato', sans-serif;
 }
-
+h1 {
+    font-size: 1rem;
+    width: 180px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
 
 /* CLASSES */
 .scaf {
@@ -14,8 +20,13 @@ body {
 
 /* IDs */
 #header-logo {
-    width: 80%;
+    width: 60%;
     padding-top: 10%;
+}
+#dictionary-entry {
+    margin: 10px;
+    padding: 1px 10px;
+    background-color: #333;
 }
 
 /* SECTIONS */
