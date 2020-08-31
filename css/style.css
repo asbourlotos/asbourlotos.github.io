@@ -23,11 +23,6 @@ h1 {
     width: 60%;
     padding-top: 10%;
 }
-#dictionary-entry {
-    margin: 10px;
-    padding: 1px 10px;
-    background-color: #333;
-}
 
 /* SECTIONS */
 header {
